@@ -1,61 +1,58 @@
-.. include:: Includes.txt
 
+.. include:: Includes.txt
 
 .. _start:
 
 =============================================================
-Extension Name
+PROJECT TITLE (= extension title)
 =============================================================
 
-.. only:: html
+:Classification:  EXTKEY
+:Version:         |release|
+:Language:        en
 
-	:Classification:
-		<extension key>
+:Description:
+   Manual covering TYPO3 CMS extension EXTKEY or EXTTITLE
 
-	:Version:
-		|release|
+:Keywords:        comma,separated,list,of,keywords
+:Copyright:       since YYYY
+:Author:          Your name <my@email.at.internet>
 
-	:Language:
-		en
+:License:
+   This document is published under the Open Publication License
+   available from http://www.opencontent.org/openpub/
 
-	:Description:
-		Manual covering TYPO3 extension <extension name>
+:Rendered:        |today|
 
-	:Keywords:
-		comma,separated,list,of,keywords
+The content of this document is related to TYPO3,
+a GNU/GPL CMS/Framework available from https://typo3.org/.
 
-	:Copyright:
-		2013-2015
+**Table of Contents**
 
-	:Author:
-		Your name
-
-	:Email:
-		you@domain.tld
-
-	:License:
-		This document is published under the Open Publication License
-		available from http://www.opencontent.org/openpub/
-
-	:Rendered:
-		|today|
-
-	The content of this document is related to TYPO3,
-	a GNU/GPL CMS/Framework available from `www.typo3.org <https://typo3.org/>`__.
+Please visit the complete :ref:`Sitemap`
 
 
-	**Table of Contents**
+
+**Links**
+
+:TER:             https://typo3.org/extensions/repository/view/<extension key>
+:Bug Tracker:     https://forge.typo3.org/projects/extension-<extension key>/issues
+:Git Repository:  https://github.com/<username>/<extension key>
+:Contact:         me@internet.tld
+:and:             ...
+:whatever:        ...
+:you have:        ...
+
 
 .. toctree::
-	:maxdepth: 3
-	:titlesonly:
+   :hidden:
 
-	Introduction/Index
-	User/Index
-	Administrator/Index
-	Configuration/Index
-	Developer/Index
-	KnownProblems/Index
-	ToDoList/Index
-	ChangeLog/Index
-	Links
+   Sitemap/Index
+   Introduction/Index
+   User/Index
+   Administrator/Index
+   Configuration/Index
+   Developer/Index
+   KnownProblems/Index
+   ToDoList/Index
+   ChangeLog/Index
