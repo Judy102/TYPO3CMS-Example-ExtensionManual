@@ -19,12 +19,21 @@ Evalanche der Firma SC-Networks (http://www.sc-networks.de/) umfasst eine umfang
 3. automatische Anreicherung von Smartlinks mit Benutzerparametern
 
 
-1. automatische Synchronisierung
+1. geeignete Formulare
+--------------------------
+
+
+
+
+
+
+2. automatische Synchronisierung
 ----------------------------------
 Mit Hilfe der IMIA Evalanche können angelegte Benutzer in einem globalen Ordner verwaltet werden. Sobald der Ordner der Erweiterung "Evalanche Sync" zugewiesen ist, greift die Extension und synchronisiert automatisch die Daten auf die Evalanche Plattform. 
 
 .. figure:: ../Images/18-10-_2016_15-16-23.jpg
    :width: 500px
    :alt: Benutzergruppen anlegen
+
 
 Die Synchronisation kann seperat eingestellt und angepasst werden, sodass der Administrator selbst bestimmen kann wann diese automatisiert durchgeführt wird. (siehe Administrator)
