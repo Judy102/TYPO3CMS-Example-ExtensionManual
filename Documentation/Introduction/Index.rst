@@ -16,14 +16,18 @@ Evalanche der Firma SC-Networks (http://www.sc-networks.de/) umfasst eine umfang
 
    1. Es können eigene Formulare angelegt werden, welche von dem User ausgefüllt und die Parameter direkt an Evalanche weitergeleitet
       werden (ohne zusätzliches iFrame und unabhängig vom Typo3)
+      
    2. Es findet eine automatisierte Synchronisierung von Benutzerdaten bzw. Kontakten statt, welche an Evalanche übertragen wird
+   
    3. automatische Anreicherung von Smartlinks mit Benutzerparametern
 
 
-.. important::
+1. automatische Synchronisierung
+----------------------------------
+Mit Hilfe der IMIA Evalanche können angelegte Benutzer in einem globalen Ordner verwaltet werden. Sobald der Ordner der Erweiterung "Evalanche Sync" zugewiesen ist, greift die Extension und synchronisiert automatisch die Daten auf die Evalanche Plattform. 
 
-   Please don't forget to repeat your extension's version number in the
-   :file:`Settings.yml` file, in the :code:`release` property. It will be
-   automatically picked up on the cover page by the :code:`|release|`
-   substitution.
+.. figure:: ../Images/18-10-_2016_15-16-23.jpg
+   :width: 500px
+   :alt: Benutzergruppen anlegen
 
+Die Synchronisation kann seperat eingestellt und angepasst werden, sodass der Administrator selbst bestimmen kann wann diese automatisiert durchgeführt wird. (siehe Administrator)
