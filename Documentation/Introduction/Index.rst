@@ -1,20 +1,25 @@
 .. include:: ../Includes.txt
 
 
-.. _introduction:
+.. _einfuehrung:
 
-Introduction
+Einführung
 ============
 
 
-.. _what-it-does:
+.. _Worum-geht-es:
 
-What does it do?
+Worum geht es?
 ----------------
 
-This chapter should give a brief overview of the extension. What does it do? What problems does it solve?
-Who is interested in this? Basically, this section includes everything people need to know to decide whether they
-should go on with this extension or not.
+Evalanche der Firma SC-Networks umfasst eine umfangreiche Lösung für Email Marketing wodurch sich der hohe Aufwand beim Versand minimieren lässt. Die Extension "IMIA Evalanche" stellt hierfür eine geeignete Schnittstelle zu Typo3 zur Verfügung, sodass Evalanche vereinfacht verwendet und darauf zugegriffen werden kann und außerdem:
+
+1. Benutzergruppen erstellt werden, welche automatisch mit Evalanche synchronisiert werden können
+2. eigene Formulare angelegt werden, welche von dem User ausgefüllt und direkt an Evalanche weitergeleitet werden (unabhängig vom Typo3)
+3. vereinfacht Smartlinks eingefügt werden, wodurch Evalanche das Nutzerverhalten trackt und automatisch Felder befüllen kann
+
+
+
 
 .. important::
 
@@ -24,14 +29,15 @@ should go on with this extension or not.
    substitution.
 
 
+1. Benutzergruppen anlegen
+---------------------------
+Dank der IMIA Evanlanche können unterschiedliche Benutzergruppen angelegt und in einem globalen Ordner verwaltet werden. Hierbei werden die User einzeln angelegt und der jeweiligen gewünschten Benutzergruppe zugewiesen.
+
+
 .. _screenshots:
 
 Screenshots
------------
-
-This chapter should help people figure how the extension works. Remove it
-if not relevant.
-
+---------------------------
 .. figure:: ../Images/IntroductionPackage.png
    :width: 500px
    :alt: Introduction Package
