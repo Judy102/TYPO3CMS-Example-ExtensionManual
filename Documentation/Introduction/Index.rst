@@ -19,22 +19,10 @@ Evalanche der Firma SC-Networks umfasst eine umfangreiche Lösung für Email Mar
 3. vereinfacht Smartlinks eingefügt werden, wodurch Evalanche das Nutzerverhalten trackt und automatisch Felder befüllen kann
 
 
-
-
 .. important::
 
    Please don't forget to repeat your extension's version number in the
    :file:`Settings.yml` file, in the :code:`release` property. It will be
    automatically picked up on the cover page by the :code:`|release|`
    substitution.
-
-
-1. Benutzergruppen anlegen
----------------------------
-Dank der IMIA Evanlanche können unterschiedliche Benutzergruppen angelegt und in einem globalen Ordner verwaltet werden. Hierbei werden die User einzeln in einem Ordner angelegt, welcher der Erweiterung "Evalanche Sync" zugewiesen ist.
-
-.. _screenshots:
-.. figure:: ../Images/18-10-_2016_15-16-23.jpg
-   :width: 500px
-   :alt: Benutzergruppen anlegen
 
