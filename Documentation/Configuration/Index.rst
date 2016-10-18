@@ -3,8 +3,17 @@
 
 .. _configuration:
 
-Configuration Reference
+Konfiguration
 =======================
+1. Benutzergruppen anlegen
+---------------------------
+Dank der IMIA Evanlanche können unterschiedliche Benutzergruppen angelegt und in einem globalen Ordner verwaltet werden. Hierbei werden die User einzeln in einem Ordner angelegt, welcher der Erweiterung "Evalanche Sync" zugewiesen ist.
+
+.. figure:: ../Images/18-10-_2016_15-16-23.jpg
+   :width: 500px
+   :alt: Benutzergruppen anlegen
+
+2.
 
 Technical information: Installation, Reference of TypoScript options,
 configuration options on system level, how to extend it, the technical
