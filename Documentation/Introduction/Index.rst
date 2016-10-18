@@ -31,14 +31,10 @@ Evalanche der Firma SC-Networks umfasst eine umfangreiche Lösung für Email Mar
 
 1. Benutzergruppen anlegen
 ---------------------------
-Dank der IMIA Evanlanche können unterschiedliche Benutzergruppen angelegt und in einem globalen Ordner verwaltet werden. Hierbei werden die User einzeln angelegt und der jeweiligen gewünschten Benutzergruppe zugewiesen.
-
+Dank der IMIA Evanlanche können unterschiedliche Benutzergruppen angelegt und in einem globalen Ordner verwaltet werden. Hierbei werden die User einzeln in einem Ordner angelegt, welcher der Erweiterung "Evalanche Sync" zugewiesen ist.
 
 .. _screenshots:
-
-Screenshots
----------------------------
-.. figure:: ../Images/IntroductionPackage.png
+.. figure:: ../Images/.png
    :width: 500px
    :alt: Introduction Package
 
