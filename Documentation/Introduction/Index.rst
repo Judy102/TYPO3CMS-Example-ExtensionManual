@@ -36,7 +36,7 @@ Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen, sowie 
 ----------------------------------
 Mit Hilfe der IMIA Evalanche können angelegte Benutzer in einem globalen Ordner verwaltet werden. Sobald der Ordner der Erweiterung "Evalanche Sync" zugewiesen ist, greift die Extension und synchronisiert automatisch die Daten auf die Evalanche Plattform. 
 
-.. figure:: ../Images/18-10-_2016_15-16-23.jpg
+.. figure:: ../Images/19-10-_2016_10-35-34.jpg
    :width: 500px
    :alt: Synchronisierung einrichten
 
