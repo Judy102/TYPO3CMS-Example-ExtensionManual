@@ -21,7 +21,6 @@ Evalanche der Firma SC-Networks (http://www.sc-networks.de/) umfasst eine umfang
 
 1. Evalanche-Formulare
 ^^^^^^^^^^^^^^^^^^^^^^^^
-
 Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt werden soll und ob es zu Evalanche weitergeleitet wird. Sobald er ein entsprechendes Formular gewählt hat, kann er als Redakteur sämtliche Felder anpassen oder sogar vorab automatisch befüllen.
 
 .. figure:: ../Images/19-10-_2016_10-35-34.jpg
@@ -51,6 +50,6 @@ Eine unumgängliche Vorraussetzung zum Verwenden der Extension ist ein bestehend
    
 3. Anreicherung von Smartlinks
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
+Durch den Einsatz von Smartlinks kann ganz simpel das Verhalten der Emailempfänger getrackt werden. Sobald ein Kunde einen Link in der Mail anklickt, werden seine Benutzerdaten an diesen getagt und mit übergeben sodass wertvolle Informationen über das Kundenverhalten gewonnen, oder auch spezielle Formularfelder mit den Daten vorab automatisch ausgefüllt werden können.
 
 
