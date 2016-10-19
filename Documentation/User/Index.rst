@@ -3,19 +3,11 @@
 
 .. _user-manual:
 
-Users Manual
-============
+Benutzeranleitung
+==================
 
 Target group: **Editors**
 
-Here should be described how to use the extension from the editor perspective.
-
-- How does it work?
-
-  - works well when doing this.
-
-  - does not work so well when doing that
-    but we can live with it.
 
   - **mind indentation when nesting lists**.
 
