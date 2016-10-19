@@ -20,7 +20,8 @@ Evalanche der Firma SC-Networks (http://www.sc-networks.de/) umfasst eine umfang
 
 
 1. Evalanche-Formulare
-^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""""""
+
 
 Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt werden soll und ob es zu Evalanche weitergeleitet wird. Sobald er ein entsprechendes Formular gewählt hat, kann er als Redakteur sämtliche Felder anpassen oder sogar vorab automatisch befüllen.
 
@@ -51,7 +52,8 @@ Eine unumgängliche Vorraussetzung zum Verwenden der Extension ist ein bestehend
    
    
 3. Anreicherung von Smartlinks
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""""""
+
 
 
 
