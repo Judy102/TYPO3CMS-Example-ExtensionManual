@@ -6,29 +6,13 @@
 Developer Corner
 ================
 
-Target group: **Developers**
-
-Use this section for *providing code examples* or any **useful** information code wise.
+In jedem Typo3 CMS gibt es mindestens einen Administrator, welcher unter anderem die einzelnen Extensions vorkonfiguriert, damit die Redaktuere sie problemlos verwenden können. Auch bei der IMIA Evalanche Extension gibt es nach dem Download und der Installation einige wichtige Einstellungen zu berücksichtigen. Damit die Synchronisation der Benutzerdaten mit Evalanche erfolgen kann muss in den Einstellungen der Extension der Login hinterlegt werden um einen Zugang zu der Evalanche Software zu ermöglichen.
 
 
-.. _developer-hooks:
 
-Hooks
------
 
-Possible hook examples. Input parameters are:
 
-+----------------+---------------+---------------------------------+
-| Parameter      | Data type     | Description                     |
-+================+===============+=================================+
-| $table         | string        | Name of the table               |
-+----------------+---------------+---------------------------------+
-| $field         | string        | Name of the field               |
-+----------------+---------------+---------------------------------+
 
-Use parameter :code:`$table` to retrieve the table name...
-
-.. _developer-api:
 
 API
 ---
