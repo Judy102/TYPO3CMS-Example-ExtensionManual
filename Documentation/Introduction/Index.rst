@@ -54,8 +54,8 @@ Eine unumgängliche Vorraussetzung zum Verwenden der Extension ist ein bestehend
 
 Durch den Einsatz von Smartlinks kann ganz simpel das Verhalten der Emailempfänger getrackt werden. Sobald ein Kunde einen Link in der Mail anklickt, werden seine Benutzerdaten an diesen getagt und mit übergeben, sodass wertvolle Informationen über das Kundenverhalten gewonnen, oder auch spezielle Formularfelder mit den Daten vorab automatisch ausgefüllt werden können. Durch die IMIA Evalanche Extension kann sichergestellt werden, dass die Smartlinks gültig und richtig gesetzt werden. Somit können die Informationen verlustfrei an Evalanche übermittelt werden.
 
-.. figure:: ../Images/18-10-_2016_13-19-18.jpg
+.. figure:: ../Images/19-10-_2016_12-23-36.jpg
    :width: 500px
    :alt: Smartlinks verwenden
 
-
+Die Verwendung von Smartlinks kann ganz simpel in den Einstellungen der Erweiterungen angegeben werden, in dem einfach ein Smartlink in das vorgesehene Feld eingetragen wird.
