@@ -44,7 +44,7 @@ Mit Hilfe der IMIA Evalanche können angelegte Benutzer in einem globalen Ordner
 
 Die Synchronisation kann seperat eingestellt und angepasst werden, sodass der Administrator selbst bestimmen kann, wann diese automatisch durchgeführt wird. (siehe Administrator).
 
-.. figure:: ../Images/18-10-_2016_15-16-23.jpg
+.. figure:: ../Images/18-10-_2016_13-19-18.jpg
    :width: 500px
    :alt: Logindaten übertragen
 
