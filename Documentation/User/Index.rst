@@ -19,3 +19,4 @@ Durch die hohe Anzahl an Entwürfen die hierbei entstehen können, ist es ebenso
    :width: 500px
    :alt: Formular absenden
 
+Hierbei kann sogar gewählt werden ob der Kunde nach dem Absenden auf eine weitere Seite weitergeleitet werden soll oder auf der bestehenden Seite informiert wird das die Daten abgeschickt wurden.
