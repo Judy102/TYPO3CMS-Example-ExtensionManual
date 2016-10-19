@@ -21,6 +21,7 @@ Evalanche der Firma SC-Networks (http://www.sc-networks.de/) umfasst eine umfang
 
 1. Evalanche-Formulare
 --------------------------
+
 Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt werden soll und ob es zu Evalanche weitergeleitet wird. Sobald er ein entsprechendes Formular gewählt hat, kann er als Redakteur sämtliche Felder anpassen oder sogar vorab automatisch befüllen.
 
 .. figure:: ../Images/19-10-_2016_10-35-34.jpg
@@ -33,6 +34,7 @@ Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen und ern
 
 2. automatische Synchronisierung
 ----------------------------------
+
 Mit Hilfe der IMIA Evalanche können angelegte Benutzer in einem globalen Ordner verwaltet werden. Sobald der Ordner der Erweiterung "Evalanche Sync" zugewiesen ist, greift die Extension und synchronisiert automatisch die Daten auf die Evalanche Plattform. 
 
 .. figure:: ../Images/18-10-_2016_15-16-23.jpg
@@ -40,4 +42,5 @@ Mit Hilfe der IMIA Evalanche können angelegte Benutzer in einem globalen Ordner
    :alt: Synchronisierung einrichten
 
 
-Die Synchronisation kann seperat eingestellt und angepasst werden, sodass der Administrator selbst bestimmen kann wann diese automatisiert durchgeführt wird. (siehe Administrator)
+Die Synchronisation kann seperat eingestellt und angepasst werden, sodass der Administrator selbst bestimmen kann, wann diese automatisch durchgeführt wird. (siehe Administrator)
+Hierfür ist es notwendig in den Einstellungen der Extension einmalig die Login-Daten für Evalanche zu hinterlegen. Die Synchronisierung kann somit alle Benutzerdaten die verwendet werden sollen für den Emailversand an Evalanche übertragen.
