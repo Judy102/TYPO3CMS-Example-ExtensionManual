@@ -42,5 +42,11 @@ Mit Hilfe der IMIA Evalanche können angelegte Benutzer in einem globalen Ordner
    :alt: Synchronisierung einrichten
 
 
-Die Synchronisation kann seperat eingestellt und angepasst werden, sodass der Administrator selbst bestimmen kann, wann diese automatisch durchgeführt wird. (siehe Administrator)
-Hierfür ist es notwendig in den Einstellungen der Extension einmalig die Login-Daten für Evalanche zu hinterlegen. Die Synchronisierung kann somit alle Benutzerdaten die verwendet werden sollen für den Emailversand an Evalanche übertragen.
+Die Synchronisation kann seperat eingestellt und angepasst werden, sodass der Administrator selbst bestimmen kann, wann diese automatisch durchgeführt wird. (siehe Administrator).
+
+.. figure:: ../Images/18-10-_2016_15-16-23.jpg
+   :width: 500px
+   :alt: Logindaten übertragen
+
+
+Ein bestehendes Evalanche-Konto ist für die Verwendung der Extension eine Vorraussetzung, da es notwendig ist in den Einstellungen der Erweiterung einmalig die Login-Daten für Evalanche zu hinterlegen. Die Synchronisierung kann somit alle Benutzerdaten die verwendet werden sollen für den Emailversand an Evalanche übertragen.
