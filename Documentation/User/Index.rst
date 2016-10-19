@@ -19,4 +19,5 @@ Durch die hohe Anzahl an Entwürfen die hierbei entstehen können, ist es ebenso
    :width: 500px
    :alt: Formular absenden
 
-Hierbei kann sogar gewählt werden ob der Kunde nach dem Absenden auf eine weitere Seite weitergeleitet werden soll oder auf der bestehenden Seite informiert wird das die Daten abgeschickt wurden.
+Hierbei kann sogar gewählt werden ob der Kunde nach dem Absenden auf eine weitere Seite weitergeleitet werden soll, oder zum Beispiel auf der bestehenden Seite informiert wird, dass die Daten abgeschickt wurden. 
+Nach dem Speichern ist das Formular sowohl im Backend als auch im Frontend sichtbar. Eine Einbindung eines iFrames von einem externen Anbieter oder sogar Evalanache ist hierbei überflüssig da sämtliche Dienste von der IMIA Evalanche Extension übernommen werden. Ebenso werden sämtliche Daten welche der Kunde im Frontend eingetragen hat über eine sichere Verbindung direkt an Evalanche weitergeleitet ohne im Typo3 Backend zwischengespeichert zu werden.
