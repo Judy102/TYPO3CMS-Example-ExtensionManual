@@ -25,9 +25,9 @@ Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt
 
 .. figure:: ../Images/19-10-_2016_10-35-34.jpg
    :width: 500px
-   :alt: Benutzergruppen anlegen
+   :alt: eigene Formulare anlegen
    
-Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen, sowie verschiedende, angelegt Design zu wählen. 
+Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen und erneut zu verwenden. Alle Formulare können mit eigenen Styles und Scripten eingebunden und somit ganz individuell an die eigenen Wünsche angepasst werden. Sobald ein Kunde nun in dem Frontend seine Daten in das Formular einträgt und absendet, werden diese direkt an Evalanche weitergeleitet, ohne zusätzliche Zwischenspeicherung im Typo3 Backend. Ebenso ist kein zusätzliches iFrame nötig welches eingebunden werden müsste um die Daten zu übertragen. Alle geschieht automatisch dank der IMIA Evalanche Extension.
 
 
 
