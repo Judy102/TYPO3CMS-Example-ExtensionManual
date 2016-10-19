@@ -21,7 +21,7 @@ Evalanche der Firma SC-Networks (http://www.sc-networks.de/) umfasst eine umfang
 1. Evalanche-Formulare
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt werden soll und ob es zu Evalanche weitergeleitet wird. Sobald er ein entsprechendes Formular gewählt hat, kann er als Redakteur sämtliche Felder anpassen oder sogar vorab automatisch befüllen.
+Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt werden soll und ob es zu Evalanche weitergeleitet wird. (siehe User Manual) Sobald er ein entsprechendes Formular gewählt hat, kann er als Redakteur sämtliche Felder anpassen oder sogar vorab automatisch befüllen.
 
 .. figure:: ../Images/19-10-_2016_10-35-34.jpg
    :width: 500px
