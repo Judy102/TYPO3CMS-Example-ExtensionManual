@@ -19,7 +19,7 @@ Evalanche der Firma SC-Networks (http://www.sc-networks.de/) umfasst eine umfang
 3. automatische Anreicherung von Smartlinks mit Benutzerparametern
 
 
-1. geeignete Formulare
+1. Evalanche-Formulare
 --------------------------
 Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt werden soll und ob es zu Evalanche weitergeleitet wird. Sobald er ein entsprechendes Formular gewählt hat, kann er als Redakteur sämtliche Felder anpassen oder sogar vorab automatisch befüllen.
 
@@ -27,9 +27,8 @@ Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt
    :width: 500px
    :alt: eigene Formulare anlegen
    
+   
 Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen und erneut zu verwenden. Alle Formulare können mit eigenen Styles und Scripten eingebunden und somit ganz individuell an die eigenen Wünsche angepasst werden. Sobald ein Kunde nun in dem Frontend seine Daten in das Formular einträgt und absendet, werden diese direkt an Evalanche weitergeleitet, ohne zusätzliche Zwischenspeicherung im Typo3 Backend. Ebenso ist kein zusätzliches iFrame nötig welches eingebunden werden müsste um die Daten zu übertragen. Alle geschieht automatisch dank der IMIA Evalanche Extension.
-
-
 
 
 2. automatische Synchronisierung
