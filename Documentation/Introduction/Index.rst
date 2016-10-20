@@ -15,9 +15,8 @@ Evalanche der Firma SC-Networks (http://www.sc-networks.de/) umfasst eine umfang
 
 Funktionen
 ^^^^^^^^^^^
-.. _evalanche_formulare:
+
 **1. Evalanche-Formulare**
-~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Es können eigene Formulare angelegt werden, welche von dem User ausgefüllt und die Parameter direkt an Evalanche weitergeleitet werden (ohne zusätzliches iFrame und unabhängig vom TYPO3)   
 
 **2. automatische Synchronisierung**
@@ -29,6 +28,7 @@ Funktionen
 - automatische Anreicherung von Smartlinks mit Benutzerparametern
 
 
+.. _evalanche_formulare:
 1. Evalanche-Formulare
 """"""""""""""""""""""
 
@@ -42,6 +42,7 @@ Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt
 Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen und erneut zu verwenden. Alle Formulare können mit eigenen Styles und Scripten eingebunden und somit ganz individuell an die eigenen Wünsche angepasst werden. Sobald ein Kunde nun in dem Frontend seine Daten in das Formular einträgt und absendet, werden diese direkt an Evalanche weitergeleitet, ohne zusätzliche Zwischenspeicherung im TYPO3 Backend. Ebenso ist kein zusätzliches iFrame nötig welches eingebunden werden müsste um die Daten zu übertragen. Alle geschieht automatisch dank der IMIA Evalanche Extension.
 
 
+.. _automatische_Synchronisierung:
 2. automatische Synchronisierung
 """"""""""""""""""""""""""""""""""""""""""""
 
@@ -55,7 +56,7 @@ Die Synchronisation kann seperat eingestellt und angepasst werden, sodass der Ad
 Eine unumgängliche Vorraussetzung zum Verwenden der Extension ist ein bestehendes Evalanche-Konto, da es notwendig ist in den Einstellungen der Erweiterung einmalig die Login-Daten für Evalanche zu hinterlegen. Die Synchronisierung kann somit alle Benutzerdaten die verwendet werden sollen für den Emailversand an Evalanche übertragen.
 
    
-   
+.. _anreicherung_von_smartlinks:
 3. Anreicherung von Smartlinks
 """"""""""""""""""""""""""""""""""""""""""""
 
