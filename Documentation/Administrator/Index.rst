@@ -40,13 +40,6 @@ Other configuration
   This other option is for all the rest...
 
 
-.. figure:: ../Images/AdministratorManual/ExtensionManager.png
-   :alt: Extension Manager
-
-   Extension Manager (caption of the image)
-
-   List of extensions within the Extension Manager also shorten with "EM" (legend of the image)
-
 
 .. _admin-configuration:
 
