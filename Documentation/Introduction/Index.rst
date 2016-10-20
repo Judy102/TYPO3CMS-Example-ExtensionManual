@@ -11,7 +11,10 @@ Einführung
 
 Worum geht es?
 ---------------
-Evalanche der Firma SC-Networks (http://www.sc-networks.de/) umfasst eine umfangreiche Lösung für Email-Marketing-Automation, wodurch sich der hohe Aufwand bei der Planung und Durchführung von Email-Kampagnen minimieren lässt. Die Extension "IMIA Evalanche" stellt hierfür eine geeignete Schnittstelle zu dem TYPO3 CMS zur Verfügung, sodass Evalanche vereinfacht verwendet und darauf zugegriffen werden kann. Überwiegend Agenturen und größere Unternehmen profitieren von der Einbindung von Evalanche und den Funktionen der Extension:
+Evalanche der Firma SC-Networks (http://www.sc-networks.de/) umfasst eine umfangreiche Lösung für Email-Marketing-Automation, wodurch sich der hohe Aufwand bei der Planung und Durchführung von Email-Kampagnen minimieren lässt. Zum Einsatz kommt Evalanche überwiegend in Agenturen und größeren Unternehmen welche von der vereinfachten Handhabung mit Kampagnen profitieren. Die Extension "IMIA Evalanche" stellt hierfür eine geeignete Schnittstelle zu dem TYPO3 CMS zur Verfügung, sodass Evalanche vereinfacht verwendet und darauf zugegriffen werden kann.
+
+Funktionen
+^^^^^^^^^^^
 
 1. Es können eigene Formulare angelegt werden, welche von dem User ausgefüllt und die Parameter direkt an Evalanche weitergeleitet werden (ohne zusätzliches iFrame und unabhängig vom TYPO3)     
 2. Es findet eine automatisierte Synchronisierung von Benutzerdaten bzw. Kontakten statt, welche an Evalanche übertragen wird
@@ -19,7 +22,7 @@ Evalanche der Firma SC-Networks (http://www.sc-networks.de/) umfasst eine umfang
 
 
 1. Evalanche-Formulare
-^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""
 
 Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt werden soll und ob es zu Evalanche weitergeleitet wird. (siehe Bereich User) Sobald er ein entsprechendes Formular gewählt hat, kann er als Redakteur sämtliche Felder anpassen oder sogar vorab automatisch befüllen lassen.
 
@@ -32,7 +35,7 @@ Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen und ern
 
 
 2. automatische Synchronisierung
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""""""""""""""""""
 
 Mit Hilfe der IMIA Evalanche können angelegte Benutzer in einem globalen Ordner verwaltet werden. Sobald der Ordner der Erweiterung "Evalanche Sync" zugewiesen ist, greift die Extension und synchronisiert automatisch die Daten auf die Evalanche Plattform. 
 
@@ -50,7 +53,7 @@ Eine unumgängliche Vorraussetzung zum Verwenden der Extension ist ein bestehend
    
    
 3. Anreicherung von Smartlinks
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""""""""""""""""""""
 
 Durch den Einsatz von Smartlinks kann ganz simpel das Verhalten der Emailempfänger getrackt werden. Sobald ein Kunde einen Link in der Mail anklickt, werden seine Benutzerdaten an diesen getagt und mit übergeben, sodass wertvolle Informationen über das Kundenverhalten gewonnen, oder auch spezielle Formularfelder mit den Daten vorab automatisch ausgefüllt werden können. Durch die IMIA Evalanche Extension kann sichergestellt werden, dass die Smartlinks gültig und richtig gesetzt werden. Somit können die Informationen verlustfrei an Evalanche übermittelt werden.
 
