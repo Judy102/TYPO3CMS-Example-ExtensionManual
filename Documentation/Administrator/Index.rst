@@ -6,7 +6,7 @@
 Administrator Anleitung
 =======================
 
-  Eine Vorraussetzung zur Anwendung der IMIA Evalanche Extension ist die Installation der IMIA User Extension. Ohne diese Erweiterung ist die Übertragung und Synchronisation der Benutzerdaten mit Evalanche nicht möglich. 
+Eine Vorraussetzung zur Anwendung der IMIA Evalanche Extension ist die Installation der IMIA User Extension. Ohne diese Erweiterung ist die Übertragung und Synchronisation der Benutzerdaten mit Evalanche nicht möglich. 
 
 .. _admin-installation:
 
