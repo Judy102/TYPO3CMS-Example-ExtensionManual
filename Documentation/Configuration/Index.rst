@@ -3,21 +3,7 @@
 
 .. _configuration:
 
-Konfiguration
-=======================
-
-Technical information: Installation, Reference of TypoScript options,
-configuration options on system level, how to extend it, the technical
-details, how to debug it and so on.
-
-Language should be technical, assuming developer knowledge of TYPO3.
-Small examples/visuals are always encouraged.
-
-Target group: **Developers**
-
-
-.. _configuration-typoscript:
-
-TypoScript Reference
---------------------
+Konfiguration 
+==============
+Im Email-Marketing ist es unter anderem vom Vorteil zu erfahren von wo der User auf bestimmte Seiten zugreift oder auf welche Links er innerhalb einer Email geklickt hat. Um diese Informationen zu sammeln und nachverfolgen zu können, werden unter anderem Smartlinks eingesetzt. Hierdurch können Links mit den Benutzdaten des Users, welcher die Mail geöffnet hat, angereichert und getagt werden. Somit kann das Verhalten des Emailempfängers nachverfolgt und wertvolle Informationen gewonnen werden. 
 
