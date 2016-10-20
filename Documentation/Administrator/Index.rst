@@ -61,4 +61,7 @@ Durch die Einrichtung des Scheduler (Planer) im Typo3 Backend kann nun entschied
 
 .. figure:: ../Images/20-10-_2016_17-34-39.jpg
    :width: 500px
-   :alt: Ordnereinstellungen
+   :alt: Einstellungen Planer Task
+   
+   
+Das Feld "Argument: poolID" dient hierbei zur genauen Identifikation des Pools in welchen die Kontakte gespeichert werden sollen in Evalanche.
