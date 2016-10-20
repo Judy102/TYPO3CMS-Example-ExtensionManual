@@ -3,42 +3,21 @@
 
 .. _admin-manual:
 
-Administrator Manual
-====================
+Administrator Anleitung
+=======================
 
-Target group: **Administrators**
-
-Describes how to manage the extension from an administrator point of view.
-That relates to Page/User TSconfig, permissions, configuration etc.,
-which administrator level users have access to.
-
-Language should be non / semi-technical, explaining, using small examples.
-
+ .. highlight:: Eine Vorraussetzung zur Anwendung der IMIA Evalanche Extension ist die Installation der IMIA User Extension. Ohne diese Erweiterung ist die Übertragung und Synchronisation der Benutzerdaten mit Evalanche nicht möglich. 
 
 .. _admin-installation:
 
 Installation
 ------------
 
-- How should the extension be installed?
-- Are they dependencies to resolve?
-- Is it a static template file to be included?
+Um die Extension zu installieren müssen folgende Schritte befolgt werde:
 
-To install the extension, perform the following steps:
-
-#. Go to the Extension Manager
-#. Install the extension
-#. Load the static template
-#. ...
-
-For a list of configuration options, using a definition list is recommended:
-
-Some Configuration
-  This option enables...
-
-Other configuration
-  This other option is for all the rest...
-
+#. Auf "Erweiterungen" klicken
+#. Nach "IMIA Evalanche" suchen und die Extension auswählen
+#. Importieren und installieren
 
 
 .. _admin-configuration:
