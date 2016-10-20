@@ -16,8 +16,7 @@ Evalanche der Firma SC-Networks (http://www.sc-networks.de/) umfasst eine umfang
 Funktionen
 ^^^^^^^^^^^
 
-
-.. _Evalanche_Formulare:
+:ref:`_Evalanche_Formulare:`
 **1. Evalanche-Formulare**
 
 - Es können eigene Formulare angelegt werden, welche von dem User ausgefüllt und die Parameter direkt an Evalanche weitergeleitet werden (ohne zusätzliches iFrame und unabhängig vom TYPO3)   
@@ -30,7 +29,8 @@ Funktionen
 
 - automatische Anreicherung von Smartlinks mit Benutzerparametern
 
-:ref:`_Evalanche_Formulare:`
+
+.. _Evalanche_Formulare:
 1. Evalanche-Formulare
 """"""""""""""""""""""
 
