@@ -18,8 +18,6 @@ Evalanche der Firma SC-Networks (http://www.sc-networks.de/) umfasst eine umfang
 3. automatische Anreicherung von Smartlinks mit Benutzerparametern
 
 
-.. _Evalanche-Formulare:
-
 1. Evalanche-Formulare
 ^^^^^^^^^^^^^^^^^^^^^^
 
