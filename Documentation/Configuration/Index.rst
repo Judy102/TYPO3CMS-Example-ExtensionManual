@@ -12,4 +12,5 @@ Im Email-Marketing ist es unter anderem vom Vorteil zu erfahren von wo der User 
    :width: 500px
    :alt: Smartlinks verwenden
    
-Um die Smartlinks zu konfigurieren muss in den Einstellungen der Extension in dem dafür vorgesehenen Feld ein Smartlink eingegeben werden. 
+   
+Um die Smartlinks zu konfigurieren muss in den Einstellungen der Extension in dem dafür vorgesehenen Feld ein Smartlink eingegeben werden. Dieser dient zum testen der übergebenen Benutzerparameter. Sind diese gültig, können die Parameter weiter verarbeitet und an zusätzliche Smartlinks getagt werden können. 
