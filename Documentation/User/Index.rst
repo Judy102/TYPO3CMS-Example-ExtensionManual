@@ -3,8 +3,8 @@
 
 .. _user-manual:
 
-Benutzeranleitung
-==================
+Formulare erstellen
+====================
 
 In Typo3 werden den Benutzern spezielle Rechte zugeordnet mit denen sie Webseiten inhaltlich befüllen können oder ganze Seiten erstellen. Durch die IMIA Evalanche Extension können Formulare (welche an Evalanche weitergeleitet werden sollen) simpel als Inhaltselement, innerhalb des Inhaltsbereiches, eingefügt werden. Über den Tab "Formulare" -> "Evalanche Formular" wird das Plugin aktiviert und kann bearbeitet werden. In der nun erschienenen Maske kann der Redakteur sämtliche Eingabefelder anpassen bzw neu erzeugen, welche der Kunde im Frontend ausfüllen soll.
 
