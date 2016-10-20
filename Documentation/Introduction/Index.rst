@@ -15,8 +15,7 @@ Evalanche der Firma `SC-Networks <http://www.sc-networks.de/>`_ umfasst eine umf
 
 Funktionen
 ^^^^^^^^^^^
-:ref:`evalanche_formulare`_
-**1. Evalanche-Formulare**
+**1. :ref:`Evalanche-Formulare <evalanche_formulare>`**
 - Es können eigene Formulare angelegt werden, welche von dem User ausgefüllt und die Parameter direkt an Evalanche weitergeleitet werden (ohne zusätzliches iFrame und unabhängig vom TYPO3)   
 
 **2. automatische Synchronisierung**
