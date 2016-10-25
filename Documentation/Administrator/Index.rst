@@ -36,7 +36,7 @@ Sobald die Einstellungen vorgenommen wurden, kann nun mit der Einrichtung des Sc
    :alt: Einstellungen Planer Task
    
    
-In einem globalen Ordner können nun sämtliche Kontakte und Benutzerdaten hinterlegt werden, welche an Evalanche übertragen werden sollen. Sobald bei der Bearbeitung des Ordners die Evalanche Sync in den Erweiterungen eingestellt wird, greift der Scheduler auf die Daten zu und synchronisiert alle Inhalte mit dem Evalanche-System und in den dafür vorgesehenen Pool mit der angegebenen Nummer.
+Nun können unter anderem auch Redakteure in einem globalen Ordner Kontakte und Benutzerdaten hinterlegen und migrieren, welche an Evalanche übertragen werden sollen. Sobald bei der Bearbeitung des Ordners die Evalanche Sync in den Erweiterungen eingestellt wird, greift der Scheduler auf die Daten zu und synchronisiert alle Inhalte mit dem Evalanche-System und in den dafür angelegten Pool.
 
 .. figure:: ../Images/18-10-_2016_15-16-23.jpg
    :width: 500px
@@ -47,12 +47,11 @@ In einem globalen Ordner können nun sämtliche Kontakte und Benutzerdaten hinte
 
 Konfiguration der Smartlinks
 -----------------------------
-Im Email-Marketing ist es unter anderem vom Vorteil zu erfahren von wo der User auf bestimmte Seiten zugreift oder auf welche Links er innerhalb einer Email geklickt hat. Um diese Informationen zu sammeln und nachverfolgen zu können, werden unter anderem Smartlinks eingesetzt. Hierdurch können Links mit den Benutzdaten des Users, welcher die Mail geöffnet hat, angereichert und getagt werden. Das Verhalten des Emailempfängers kann somit nachverfolgt und wertvolle Informationen gewonnen werden. Des Weiteren können durch die Smartlinks in Formularen spezielle Felder mit den übergebenen Benutzerdaten vorab automatisch ausgefüllt werden, sodass dem Kunde das Eingeben von immer gleichen Daten erspart wird. Mithilfe der IMIA Evalanche Extension kann sichergestellt werden das die Smartlinks korrekt eingebunden werden in die Email und das sie zudem auch gültig sind und keine Benutzerdaten verloren gehen. Somit können die Informationen verlustfrei an Evalanche übermittelt werden.
-
+Im Email-Marketing ist es unter anderem vom Vorteil zu erfahren von wo der User auf bestimmte Seiten zugreift oder auf welche Links er innerhalb einer Email geklickt hat. Um diese Informationen zu sammeln und nachverfolgen zu können, werden unter anderem Smartlinks eingesetzt. Hierdurch können Links mit den Benutzdaten des Users, welcher die Mail geöffnet hat, angereichert und getagt werden. Das Verhalten des Emailempfängers kann somit nachverfolgt und wertvolle Informationen gewonnen werden. Des Weiteren können durch die Smartlinks in Formularen spezielle Felder mit den übergebenen Benutzerdaten vorab automatisch ausgefüllt werden, sodass dem Kunde das Eingeben von immer gleichen Daten erspart wird. Mithilfe der IMIA Evalanche Extension kann sichergestellt werden das die Smartlinks korrekt eingebunden werden und das sie zudem auch gültig sind und keine Benutzerdaten verloren gehen. 
 
 .. figure:: ../Images/19-10-_2016_12-23-36.jpg
    :width: 500px
    :alt: Smartlinks verwenden
    
    
-Um die Smartlinks zu konfigurieren muss in den Einstellungen der Extension in dem dafür vorgesehenen Feld ein Smartlink eingegeben werden. Dieser dient zum testen der übergebenen Benutzerparameter. Sind diese gültig, können die Parameter weiter verarbeitet und an zusätzliche Smartlinks getagt werden können. 
+Um die Smartlinks zu konfigurieren muss in den Einstellungen der Extension in dem dafür vorgesehenen Feld ein Smartlink eingegeben werden. Dieser dient zum testen der übergebenen Benutzerparameter. Sind diese gültig, können die Parameter weiter verarbeitet und an zusätzliche Smartlinks getagt werden. 
