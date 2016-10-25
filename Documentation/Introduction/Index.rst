@@ -11,7 +11,7 @@ Einführung
 
 Worum geht es?
 ---------------
-Evalanche der Firma `SC-Networks <http://www.sc-networks.de/>`_ umfasst eine umfangreiche Lösung für Email-Marketing-Automation, wodurch sich der hohe Aufwand bei der Planung und Durchführung von Email-Kampagnen minimieren lässt. Zum Einsatz kommt Evalanche überwiegend in Agenturen und größeren Unternehmen welche von der vereinfachten Handhabung bei Kampagnen profitieren. Die IMIA Evalanche Extention stellt hierfür eine geeignete Schnittstelle zu dem TYPO3 CMS zur Verfügung, sodass Evalanche vereinfacht verwendet und darauf zugegriffen werden kann.
+Evalanche der Firma `SC-Networks <http://www.sc-networks.de/>`_ umfasst eine umfangreiche Lösung für Email-Marketing-Automation, wodurch sich der hohe Aufwand bei der Planung und Durchführung von Email-Kampagnen minimieren lässt. Zum Einsatz kommt Evalanche überwiegend in Agenturen und größeren Unternehmen, welche von der vereinfachten Handhabung bei Kampagnen profitieren. Die IMIA Evalanche Extension stellt hierfür eine geeignete Schnittstelle zu dem TYPO3 CMS zur Verfügung, sodass Evalanche vereinfacht verwendet und darauf zugegriffen werden kann.
 **WICHTIG:** Für die optimale Anwendung aller Funktionen der IMIA Evalanche Extension ist es notwendig die IMIA User Extension ebenfalls zu installieren, da hierdurch das Anlegen von Benutzerdaten vereinheitlicht wird und auf bestehende Normen zugegriffen werden kann.
 
 Funktionen
@@ -40,7 +40,7 @@ Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt
 Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen und erneut zu verwenden. Alle Formulare können mit eigenen Styles und Scripten angereichert und somit ganz individuell an die eigenen Wünsche angepasst werden. Sobald ein Kunde nun im Frontend seine Daten in das Formular einträgt und absendet, werden diese direkt an Evalanche weitergeleitet, ohne zusätzliche Zwischenspeicherung im TYPO3 Backend. Ebenso ist kein zusätzliches iFrame nötig, welches eingebunden werden müsste um die Daten zu übertragen. Alle geschieht automatisch dank der IMIA Evalanche Extension.
 
 
-.. _automatische_Synchronisierung:
+.. _automatische_synchronisierung:
 2. automatische Synchronisierung
 """"""""""""""""""""""""""""""""""
 
