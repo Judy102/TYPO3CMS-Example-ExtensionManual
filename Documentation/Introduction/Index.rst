@@ -12,9 +12,9 @@ Einführung
 Worum geht es?
 ---------------
 Evalanche der Firma `SC-Networks <http://www.sc-networks.de/>`_ umfasst eine umfangreiche Lösung für Email-Marketing-Automation, wodurch sich der hohe Aufwand bei der Planung und Durchführung von Email-Kampagnen minimieren lässt. Zum Einsatz kommt Evalanche überwiegend in Agenturen und größeren Unternehmen welche von der vereinfachten Handhabung bei Kampagnen profitieren. Die IMIA Evalanche Extention stellt hierfür eine geeignete Schnittstelle zu dem TYPO3 CMS zur Verfügung, sodass Evalanche vereinfacht verwendet und darauf zugegriffen werden kann.
-| **WICHTIG:** Für die optimale Anwendung aller Funktionen der IMIA Evalanche Extension ist es notwendig die IMIA User Extension 
-| ebenfalls zu installieren, da hierdurch das Anlegen von Benutzerdaten vereinheitlicht wird und auf bestehende Normen zugegriffen
-| werden kann.
+|  **WICHTIG:** Für die optimale Anwendung aller Funktionen der IMIA Evalanche Extension ist es notwendig die IMIA User Extension 
+|  ebenfalls zu installieren, da hierdurch das Anlegen von Benutzerdaten vereinheitlicht wird und auf bestehende Normen zugegriffen
+|  werden kann.
 
 Funktionen
 ^^^^^^^^^^^
