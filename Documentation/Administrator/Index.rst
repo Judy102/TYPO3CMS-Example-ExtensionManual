@@ -29,14 +29,14 @@ Der Administrator im TYPO3 CMS konfiguriert unter anderem die einzelnen Extensio
    :alt: Synchronisation
    
 
-Sobald die Einstellungen vorgenommen wurden, kann nun mit der Einrichtung des Scheduler (Planer) im TYPO3 Backend entschieden werden, wann ein automatisierter Synchronisationsvorgang mit den hinterlegten Logindaten vorgenommen wird. Hierfür muss ein neuer Task angelegt werden um Zielzeiten des Vorgangs zu wählen, die Häufigkeit der Synchronisation anzugeben oder parallele Ausführungen zu erlauben. Es gilt zu beachten dass in dem Auswahlmenü "CommandController Command" die "ImiaEvalanche Sync" ausgewählt wird, um die Synchronisation der richtigen Extension zu gewährleisten. Das Feld "Argument: poolID" dient hierbei zur genauen Identifikation des Pools, in welchem die Kontakte in Evalanche gespeichert werden sollen. 
+Sobald die Einstellungen vorgenommen wurden, kann nun mit der Einrichtung des Scheduler (Planer) im TYPO3 Backend entschieden werden, wann ein automatisierter Synchronisationsvorgang mit den hinterlegten Logindaten vorgenommen wird. Hierfür muss ein neuer Task angelegt werden um Zielzeiten des Vorgangs zu wählen, die Häufigkeit der Synchronisation anzugeben oder parallele Ausführungen zu erlauben. Es gilt zu beachten dass in dem Auswahlmenü "CommandController Command" die "ImiaEvalanche Sync" ausgewählt wird, um die Synchronisation der richtigen Extension zu gewährleisten. Das Feld "Argument: poolID" dient hierbei zur genauen Identifikation, in welchem die Kontakte in Evalanche gespeichert werden sollen. 
 
 .. figure:: ../Images/20-10-_2016_17-34-39.jpg
    :width: 500px
    :alt: Einstellungen Planer Task
    
    
-In einem globalen Ordner können nun sämtliche Kontakte und Benutzerdaten hinterlegt werden, welche an Evalanche übertragen werden sollen. Sobald bei der Bearbeitung des Ordners die Evalanche Sync in den Erweiterungen eingestellt wird, greift der Scheduler auf die Daten zu und synchronisiert alle Inhalte mit dem Evalanche-System und in den dafür vorgesehenen Pool.
+In einem globalen Ordner können nun sämtliche Kontakte und Benutzerdaten hinterlegt werden, welche an Evalanche übertragen werden sollen. Sobald bei der Bearbeitung des Ordners die Evalanche Sync in den Erweiterungen eingestellt wird, greift der Scheduler auf die Daten zu und synchronisiert alle Inhalte mit dem Evalanche-System und in den dafür vorgesehenen Pool mit der angegebenen Nummer.
 
 .. figure:: ../Images/18-10-_2016_15-16-23.jpg
    :width: 500px
