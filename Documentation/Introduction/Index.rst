@@ -11,7 +11,7 @@ Einführung
 
 Worum geht es?
 ---------------
-Evalanche der Firma `SC-Networks <http://www.sc-networks.de/>`_ umfasst eine umfangreiche Lösung für Email-Marketing-Automation, wodurch sich der hohe Aufwand bei der Planung und Durchführung von Email-Kampagnen minimieren lässt. Zum Einsatz kommt Evalanche überwiegend in Agenturen und größeren Unternehmen welche von der vereinfachten Handhabung mit Kampagnen profitieren. Die Extension "IMIA Evalanche" stellt hierfür eine geeignete Schnittstelle zu dem TYPO3 CMS zur Verfügung, sodass Evalanche vereinfacht verwendet und darauf zugegriffen werden kann.
+Evalanche der Firma `SC-Networks <http://www.sc-networks.de/>`_ umfasst eine umfangreiche Lösung für Email-Marketing-Automation, wodurch sich der hohe Aufwand bei der Planung und Durchführung von Email-Kampagnen minimieren lässt. Zum Einsatz kommt Evalanche überwiegend in Agenturen und größeren Unternehmen welche von der vereinfachten Handhabung bei Kampagnen profitieren. Die IMIA Evalanche Extention stellt hierfür eine geeignete Schnittstelle zu dem TYPO3 CMS zur Verfügung, sodass Evalanche vereinfacht verwendet und darauf zugegriffen werden kann.
 
 Funktionen
 ^^^^^^^^^^^
@@ -19,24 +19,24 @@ Funktionen
 - Es können eigene Formulare angelegt werden, welche von dem User ausgefüllt und die Parameter direkt an Evalanche weitergeleitet werden (ohne zusätzliches iFrame und unabhängig vom TYPO3)   
 
 **2. automatische Synchronisierung**
-- Es findet eine automatisierte Synchronisierung von Benutzerdaten bzw. Kontakten statt, welche an Evalanche übertragen wird
+- Es findet eine automatisierte Synchronisierung von Benutzerdaten bzw. Kontakten statt, welche an Evalanche übertragen werden
 
 **3. Anreicherung von Smartlinks**
-- automatische Anreicherung von Smartlinks mit Benutzerparametern
+- automatische Anreicherung von Smartlinks mit Benutzerparametern und Prüfung auf die jeweilige Gültigkeit
 
 
 .. _evalanche_formulare:
 1. Evalanche-Formulare
 """""""""""""""""""""""""
 
-Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt werden soll und ob es zu Evalanche weitergeleitet wird. (siehe Bereich User) Sobald er ein entsprechendes Formular gewählt hat, kann er als Redakteur sämtliche Felder anpassen oder sogar vorab automatisch befüllen lassen.
+Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt werden soll und ob es zu Evalanche weitergeleitet wird. Sobald er ein entsprechendes Formular gewählt hat, kann er als Redakteur sämtliche Felder anpassen oder sogar vorab automatisch befüllen lassen.
 
 .. figure:: ../Images/20-10-_2016_17-06-28.jpg
    :width: 500px
    :alt: eigene Formulare anlegen
    
    
-Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen und erneut zu verwenden. Alle Formulare können mit eigenen Styles und Scripten eingebunden und somit ganz individuell an die eigenen Wünsche angepasst werden. Sobald ein Kunde nun in dem Frontend seine Daten in das Formular einträgt und absendet, werden diese direkt an Evalanche weitergeleitet, ohne zusätzliche Zwischenspeicherung im TYPO3 Backend. Ebenso ist kein zusätzliches iFrame nötig welches eingebunden werden müsste um die Daten zu übertragen. Alle geschieht automatisch dank der IMIA Evalanche Extension.
+Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen und erneut zu verwenden. Alle Formulare können mit eigenen Styles und Scripten angereichert und somit ganz individuell an die eigenen Wünsche angepasst werden. Sobald ein Kunde nun im Frontend seine Daten in das Formular einträgt und absendet, werden diese direkt an Evalanche weitergeleitet, ohne zusätzliche Zwischenspeicherung im TYPO3 Backend. Ebenso ist kein zusätzliches iFrame nötig, welches eingebunden werden müsste um die Daten zu übertragen. Alle geschieht automatisch dank der IMIA Evalanche Extension.
 
 
 .. _automatische_Synchronisierung:
@@ -49,8 +49,7 @@ Mit Hilfe der IMIA Evalanche können angelegte Benutzer in einem globalen Ordner
    :width: 500px
    :alt: Synchronisierung einrichten
 
-Die Synchronisation kann seperat eingestellt und angepasst werden, sodass der Administrator selbst bestimmen kann, wann diese automatisch durchgeführt wird. (siehe Administrator).
-Eine unumgängliche Vorraussetzung zum Verwenden der Extension ist ein bestehendes Evalanche-Konto, da es notwendig ist in den Einstellungen der Erweiterung einmalig die Login-Daten für Evalanche zu hinterlegen. Die Synchronisierung kann somit alle Benutzerdaten die verwendet werden sollen für den Emailversand an Evalanche übertragen.
+Die Synchronisation kann separat eingestellt und angepasst werden, sodass der Administrator selbst bestimmen kann, wann diese automatisch durchgeführt wird. Eine unumgängliche Vorraussetzung zum Verwenden der Extension ist ein bestehendes Evalanche-Konto, da es notwendig ist in den Einstellungen der Erweiterung einmalig die Login-Daten für Evalanche zu hinterlegen. 
 
    
 .. _anreicherung_von_smartlinks:
