@@ -27,7 +27,7 @@ Funktionen
 
 .. _evalanche_formulare:
 1. Evalanche-Formulare
-""""""""""""""""""""""
+"""""""""""""""""""""""""
 
 Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt werden soll und ob es zu Evalanche weitergeleitet wird. (siehe Bereich User) Sobald er ein entsprechendes Formular gewählt hat, kann er als Redakteur sämtliche Felder anpassen oder sogar vorab automatisch befüllen lassen.
 
@@ -41,7 +41,7 @@ Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen und ern
 
 .. _automatische_Synchronisierung:
 2. automatische Synchronisierung
-"""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""
 
 Mit Hilfe der IMIA Evalanche können angelegte Benutzer in einem globalen Ordner verwaltet werden. Sobald der Ordner der Erweiterung "Evalanche Sync" zugewiesen ist, greift die Extension und synchronisiert automatisch die Daten auf die Evalanche Plattform. 
 
@@ -55,6 +55,6 @@ Eine unumgängliche Vorraussetzung zum Verwenden der Extension ist ein bestehend
    
 .. _anreicherung_von_smartlinks:
 3. Anreicherung von Smartlinks
-""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""
 
 Durch den Einsatz von Smartlinks kann ganz simpel das Verhalten der Emailempfänger getrackt werden. Sobald ein Kunde einen Link in der Mail anklickt, werden seine Benutzerdaten an diesen getagt und mit übergeben, sodass wertvolle Informationen über das Kundenverhalten gewonnen, oder auch spezielle Formularfelder mit den Daten vorab automatisch ausgefüllt werden können. Durch die IMIA Evalanche Extension kann sichergestellt werden, dass die Smartlinks gültig und richtig gesetzt werden. Somit können die Informationen verlustfrei an Evalanche übermittelt werden. Die Verwendung von Smartlinks kann ganz simpel in den Einstellungen der Erweiterungen angegeben werden, in dem einfach ein Smartlink in das vorgesehene Feld eingetragen wird.
