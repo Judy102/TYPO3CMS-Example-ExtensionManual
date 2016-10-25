@@ -22,14 +22,14 @@ Um die Extension zu installieren müssen folgende Schritte befolgt werde:
 
 Konfiguration der Synchronisation 
 ----------------------------------
-Der Administrator im TYPO3 CMS konfiguriert unter anderem die einzelnen Extensions vor, damit die Redakteure sie problemlos verwenden können. Ebenso gilt es bei der IMIA Evalanche Extension nach dem Download und der Installation einige wichtige Einstellungen zu berücksichtigen. Damit die Synchronisation der Benutzerdaten mit Evalanche erfolgen kann, muss in den Einstellungen der Extension der Login hinterlegt werden, um einen Zugang zu der Evalanche Software zu ermöglichen. Dies umfasst die Evalanche-URL, den Nutzernamen und das Passwort.
+Der Administrator im TYPO3 CMS konfiguriert unter anderem die einzelnen Extensions vor, damit die Redakteure sie problemlos verwenden können. Ebenso gilt es bei der IMIA Evalanche Extension nach dem Download und der Installation einige wichtige Einstellungen zu berücksichtigen. Damit die Synchronisation der Benutzerdaten mit Evalanche erfolgen kann, muss in den Einstellungen der Extension der Login hinterlegt werden, um einen Zugang zu der Evalanche Plattform zu ermöglichen. Dies umfasst die Evalanche-URL, den Nutzernamen und das Passwort.
 
 .. figure:: ../Images/18-10-_2016_13-19-18.jpg
    :width: 500px
    :alt: Synchronisation
    
 
-Durch die Einrichtung des Scheduler (Planer) im TYPO3 Backend kann nun entschieden werden, wann ein automatisierter Synchronisationsvorgang mit den hinterlegten Logindaten vorgenommen wird. Hierbei wird ein neuer Task angelegt um Zielzeiten des Vorgangs zu wählen, die Häufigkeit der Synchronisation anzugeben oder parallele Ausführungen zu erlauben. Es gilt zu beachten dass in dem Auswahlmenü "CommandController Command" die ImiaEvalanche Sync ausgewählt wird, um die Synchronisation der richtigen Extension zu gewährleisten. Das Feld "Argument: poolID" dient hierbei zur genauen Identifikation des Pools in welchen die Kontakte gespeichert werden sollen in Evalanche. 
+Sobald die Einstellungen vorgenommen wurden, kann nun mit der Einrichtung des Scheduler (Planer) im TYPO3 Backend entschieden werden, wann ein automatisierter Synchronisationsvorgang mit den hinterlegten Logindaten vorgenommen wird. Hierfür muss ein neuer Task angelegt werden um Zielzeiten des Vorgangs zu wählen, die Häufigkeit der Synchronisation anzugeben oder parallele Ausführungen zu erlauben. Es gilt zu beachten dass in dem Auswahlmenü "CommandController Command" die "ImiaEvalanche Sync" ausgewählt wird, um die Synchronisation der richtigen Extension zu gewährleisten. Das Feld "Argument: poolID" dient hierbei zur genauen Identifikation des Pools, in welchem die Kontakte in Evalanche gespeichert werden sollen. 
 
 .. figure:: ../Images/20-10-_2016_17-34-39.jpg
    :width: 500px
