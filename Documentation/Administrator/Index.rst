@@ -38,6 +38,10 @@ Durch die Einrichtung des Scheduler (Planer) im Typo3 Backend kann nun entschied
    
 In einem globalen Ordner können nun sämtliche Kontakte und Benutzerdaten hinterlegt werden, welche an Evalanche übertragen werden sollen. Sobald bei der Bearbeitung des Ordners die Evalanche Sync in den Erweiterungen eingestellt wird, greift der Scheduler auf die Daten zu und synchronisiert alle Inhalte mit dem Evalanche-System und in den dafür vorgesehenen Pool.
 
+.. figure:: ../Images/20-10-_2016_17-34-39.jpg
+   :width: 500px
+   :alt: Einstellungen Planer Task
+
 
 .. _admin-configuration:
 
