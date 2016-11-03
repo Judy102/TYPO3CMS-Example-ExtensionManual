@@ -33,7 +33,7 @@ Funktionen
 Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt werden soll und ob es zu Evalanche weitergeleitet wird. Sobald er ein entsprechendes Formular gewählt hat, kann er als Redakteur sämtliche Felder anpassen oder sogar vorab automatisch befüllen lassen.
 
 .. figure:: ../Images/20-10-_2016_17-06-28.jpg
-   :width: 500px
+   :width: 700px
    :alt: eigene Formulare anlegen
    
    
@@ -47,7 +47,7 @@ Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen und ern
 Mit Hilfe der IMIA Evalanche können angelegte Benutzer in einem globalen Ordner verwaltet werden. Sobald der Ordner der Erweiterung "Evalanche Sync" zugewiesen ist, greift die Extension und synchronisiert automatisch die Daten auf die Evalanche Plattform. 
 
 .. figure:: ../Images/18-10-_2016_15-16-23.jpg
-   :width: 500px
+   :width: 700px
    :alt: Synchronisierung einrichten
 
 Die Synchronisation kann separat eingestellt und angepasst werden, sodass der Administrator selbst bestimmen kann, wann diese automatisch durchgeführt wird. Eine unumgängliche Vorraussetzung zum Verwenden der Extension ist ein bestehendes Evalanche-Konto, da es notwendig ist in den Einstellungen der Erweiterung einmalig die Login-Daten für Evalanche zu hinterlegen. Mehr Details unter ":ref:`synchronisation-configuration`"
