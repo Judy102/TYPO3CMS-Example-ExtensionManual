@@ -37,7 +37,7 @@ Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt
    :alt: eigene Formulare anlegen
    
    
-Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen und erneut zu verwenden. Alle Formulare können mit eigenen Styles und Scripten angereichert und somit ganz individuell an die eigenen Wünsche angepasst werden. Sobald ein Kunde nun im Frontend seine Daten in das Formular einträgt und absendet, werden diese direkt an Evalanche weitergeleitet, ohne zusätzliche Zwischenspeicherung im TYPO3 Backend. Ebenso ist kein zusätzliches iFrame nötig, welches eingebunden werden müsste um die Daten zu übertragen. Alle geschieht automatisch dank der IMIA Evalanche Extension. Mehr Details :ref:`user-manual`
+Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen und erneut zu verwenden. Alle Formulare können mit eigenen Styles und Scripten angereichert und somit ganz individuell an die eigenen Wünsche angepasst werden. Sobald ein Kunde nun im Frontend seine Daten in das Formular einträgt und absendet, werden diese direkt an Evalanche weitergeleitet, ohne zusätzliche Zwischenspeicherung im TYPO3 Backend. Ebenso ist kein zusätzliches iFrame nötig, welches eingebunden werden müsste um die Daten zu übertragen. Alle geschieht automatisch dank der IMIA Evalanche Extension. Mehr Details |:ref:`user-manual`
 
 
 .. _automatische_synchronisierung:
