@@ -16,16 +16,17 @@ Evalanche der Firma `SC-Networks <http://www.sc-networks.de/>`_ umfasst eine umf
 
 Funktionen
 ^^^^^^^^^^^
-**1. Evalanche-Formulare**
+**1. :ref:`Evalanche-Formulare`**
 - Es können eigene Formulare angelegt werden, welche von dem User ausgefüllt und die Parameter direkt an Evalanche weitergeleitet werden (ohne zusätzliches iFrame und unabhängig vom TYPO3)   
 
-**2. automatische Synchronisierung**
+**2. :ref:`automatischer-Synchronisierung`**
 - Es findet eine automatisierte Synchronisierung von Benutzerdaten bzw. Kontakten statt, welche an Evalanche übertragen werden
 
-**3. Anreicherung von Smartlinks**
+**3. :ref:`anreicherung-von-Smartlinks`**
 - automatische Anreicherung von Smartlinks mit Benutzerparametern und Prüfung auf die jeweilige Gültigkeit
 
 
+.. _Evalanche-Formulare:
 1. Evalanche-Formulare
 """""""""""""""""""""""""
 
@@ -39,6 +40,7 @@ Der Benutzer kann selbst im Content-Bereich bestimmen wo ein Formular eingefügt
 Ebenso besteht die Möglichkeit ein vorab erstelltes Formular zu wählen und erneut zu verwenden. Alle Formulare können mit eigenen Styles und Scripten angereichert und somit ganz individuell an die eigenen Wünsche angepasst werden. Sobald ein Kunde nun im Frontend seine Daten in das Formular einträgt und absendet, werden diese direkt an Evalanche weitergeleitet, ohne zusätzliche Zwischenspeicherung im TYPO3 Backend. Ebenso ist kein zusätzliches iFrame nötig, welches eingebunden werden müsste um die Daten zu übertragen. Alle geschieht automatisch dank der IMIA Evalanche Extension. Mehr Details unter ":ref:`user-manual`"
 
 
+.. _automatischer-Synchronisierung:
 2. automatische Synchronisierung
 """"""""""""""""""""""""""""""""""
 
@@ -51,6 +53,7 @@ Mit Hilfe der IMIA Evalanche können angelegte Benutzer in einem globalen Ordner
 Die Synchronisation kann separat eingestellt und angepasst werden, sodass der Administrator selbst bestimmen kann, wann diese automatisch durchgeführt wird. Eine unumgängliche Vorraussetzung zum Verwenden der Extension ist ein bestehendes Evalanche-Konto, da es notwendig ist in den Einstellungen der Erweiterung einmalig die Login-Daten für Evalanche zu hinterlegen. Mehr Details unter ":ref:`synchronisation-configuration`"
 
    
+.. _anreicherung-von-Smartlinks:
 3. Anreicherung von Smartlinks
 """"""""""""""""""""""""""""""""
 
