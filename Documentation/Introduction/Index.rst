@@ -26,7 +26,7 @@ Funktionen
 - automatische Anreicherung von Smartlinks mit Benutzerparametern und Prüfung auf die jeweilige Gültigkeit
 
 
-.. _evalanche_formulare:
+.. _user-manual:
 1. Evalanche-Formulare
 """""""""""""""""""""""""
 
