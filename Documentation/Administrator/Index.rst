@@ -20,6 +20,7 @@ Um die Extension zu installieren müssen folgende Schritte befolgt werde:
 #. Importieren und installieren
 
 
+.. _synchronisation-configuration:
 Konfiguration der Synchronisation 
 ----------------------------------
 Der Administrator im TYPO3 CMS konfiguriert unter anderem die einzelnen Extensions vor, damit die Redakteure sie problemlos verwenden können. Ebenso gilt es bei der IMIA Evalanche Extension nach dem Download und der Installation einige wichtige Einstellungen zu berücksichtigen. Damit die Synchronisation der Benutzerdaten mit Evalanche erfolgen kann, muss in den Einstellungen der Extension der Login hinterlegt werden, um einen Zugang zu der Evalanche Plattform zu ermöglichen. Dies umfasst die Evalanche-URL, den Nutzernamen und das Passwort.
@@ -43,7 +44,7 @@ Nun können unter anderem auch Redakteure in einem globalen Ordner Kontakte und 
    :alt: Einstellungen Synchronisation eines Ordners
 
 
-.. _admin-configuration:
+.. _smartlink-configuration:
 
 Konfiguration der Smartlinks
 -----------------------------
